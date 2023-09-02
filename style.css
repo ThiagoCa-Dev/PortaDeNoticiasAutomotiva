@@ -14,7 +14,7 @@ body{
     border-radius: 5px;
     padding: 3vh;
     margin-top: 20px;
-} 
+}
 
 .noticia__destaque{
     padding:2% 2%;
@@ -40,12 +40,12 @@ body{
 }
 
 .texto_uno{
-    
-text-shadow:2px 2px 4px #000000
+
+    text-shadow:2px 2px 4px #000000
 }
 
 .texto_Koenigsegg{
-text-shadow:2px 2px 4px #000000
+    text-shadow:2px 2px 4px #000000
 }
 .lista__destaque__link{
     border-radius: 50px;
@@ -60,8 +60,8 @@ text-shadow:2px 2px 4px #000000
     border-radius: 50px;
 }
 .lista__destaque__img1:hover{
- scale: 1.1;
- transition: 0.5s;
+    scale: 1.1;
+    transition: 0.5s;
 }
 
 .lista__destaque__img2{
@@ -76,7 +76,7 @@ text-shadow:2px 2px 4px #000000
 .lista__destaque__img2:hover{
     scale: 1.1;
     transition: 0.5s;
-   }
+}
 
 .noticia__demais{
     display: flex;
@@ -95,6 +95,7 @@ text-shadow:2px 2px 4px #000000
     scale: 1.1;
     transition: 0.2s;
 }
+
 .img__3 {
     width: 30%;
     height: 30%;
@@ -120,17 +121,9 @@ footer {
 }
 footer ul li a {
     text-decoration: none;
-    color:rgb(179, 0, 155)
+    color: #b3009b
 }
-footer ul li{
+
+footer ul li {
     padding: 5px 0 2px;
-}
-.banner__pesquisa::placeholder {
-    font-size: 14px;
-    font-weight: 400;
-    text-align: center;
-    color: gray;
-    background: url("/img/icons8-lupa-50.png") no-repeat;
-    background-color: #000000;
-    background-position: 1em;
 }
